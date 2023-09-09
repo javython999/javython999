@@ -12,7 +12,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javython999&show_icons=true&theme=default)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javython999&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javython999&layout=compact)
 
 <section>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
