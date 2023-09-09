@@ -32,5 +32,7 @@
 </section>
 
 </div>
-
-
+<div align="center">
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer)
+</div>
