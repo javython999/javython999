@@ -1,20 +1,19 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=can'tHurtMe&height=180&fontAlignY=35&fontColor=FFFFFF)
+</div>
+<div align="center">
+  
+  ### Hi there 👋
+</div>
 
-<!--
-**javython999/javython999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<div align="center">
 
-Here are some ideas to get you started:
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javython999&show_icons=true&theme=default)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javython999&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javython999&show_icons=true&theme=default)
 <section>
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
@@ -31,3 +30,7 @@ Here are some ideas to get you started:
   <img alt="oracle" src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
   <img alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 </section>
+
+</div>
+
+
