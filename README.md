@@ -33,6 +33,9 @@
 
 </div>
 <div align="center">
-  
+
+  ![](./profile-3d-contrib/profile-green-animate.svg)
   ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer)
 </div>
+
+
