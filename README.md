@@ -38,7 +38,7 @@
 ***
 
 <div align="center">
-  <a href=""><img align="center" style="width:80%" src="./profile-3d-contrib/profile-green-animate.svg" /></a>
+  <a href=""><img align="center" src="./profile-3d-contrib/profile-green-animate.svg" /></a>
 </div>
 
 
