@@ -1,9 +1,5 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=can'tHurtMe&height=180&fontAlignY=35&fontColor=FFFFFF)
-</div>
-<div align="center">
-  
   ### Hi there 👋
 </div>
 
@@ -43,9 +39,5 @@
 
 
 
-<div align="center">
-  
-  ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer)
-</div>
 
 
