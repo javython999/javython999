@@ -23,13 +23,6 @@
 ***
 
 <div align="center">
-  <a href="/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=javython999&show_icons=true&theme=default"/></a>
-  <a href=""><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javython999&layout=compact" /></a>
-</div>
-
-***
-
-<div align="center">
   <a href=""><img align="center" src="./profile-3d-contrib/profile-green-animate.svg" /></a>
 </div>
 
